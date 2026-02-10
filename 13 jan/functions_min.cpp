@@ -14,6 +14,6 @@ int minoftwo(int a, int b){
 
 
 int main() {
-    cout<< "min " << minoftwo(55,6) <<endl;
+    cout<< minoftwo(55, 66)<<endl; 
     return 0;
 }
